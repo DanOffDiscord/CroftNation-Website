@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans');
+
+body {
+	font-family: 'Fira Sans', sans-serif;
+	background-color: hsl(0, 0%, 21%);
+	min-height: 200vh;
+}
+
+.title, .subtitle, p {
+	color: white !important;
+}
+
+.navbar-menu {
+	background-color: transparent;
+}
+
+.navbar-burger {
+	color: white;
+}
+
+a.navbar-item {
+	color: white;
+}
+
+.logo {
+	width: 250px;
+	border-radius: 20%;
+}
+
+.icon {
+	font-size: 50px;
+	color: #e5c100;
+}
+
+.icon:hover {
+	transform: scale(1.25);
+}
+
+a:hover {
+	color: lightblue;
+}
+
+.box {
+	background-color: transparent;
+	color: white !important;
+}
+
+.foooter {
+	position: relative;
+	bottom: 0;
+	width: 100%;
+}

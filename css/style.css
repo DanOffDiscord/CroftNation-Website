@@ -22,6 +22,11 @@ a.navbar-item {
 	color: white;
 }
 
+.avatar {
+	width: 250px;
+	border-radius: 20%;
+}
+
 .logo {
 	width: 250px;
 	border-radius: 20%;
@@ -43,6 +48,10 @@ a:hover {
 .box {
 	background-color: transparent;
 	color: white !important;
+}
+
+a.review {
+	color: #e5c100;
 }
 
 .foooter {

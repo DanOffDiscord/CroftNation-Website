@@ -32,6 +32,11 @@ a.navbar-item {
 	border-radius: 20%;
 }
 
+.review-image {
+	width: 500px;
+	border-radius: 1%;
+}
+
 .icon {
 	font-size: 50px;
 	color: #e5c100;

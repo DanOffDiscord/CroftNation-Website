@@ -29,7 +29,7 @@ a.navbar-item {
 
 .logo {
 	width: 250px;
-	border-radius: 20%;
+	border-radius: 5%;
 }
 
 .review-image {
@@ -39,7 +39,7 @@ a.navbar-item {
 
 .icon {
 	font-size: 50px;
-	color: #e5c100;
+	color: #603D8D;
 }
 
 .icon:hover {
@@ -56,7 +56,7 @@ a:hover {
 }
 
 a.review {
-	color: #e5c100;
+	color: #885ead;
 }
 
 .foooter {
